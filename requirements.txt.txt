@@ -1,0 +1,16 @@
+
+---
+
+## ✅ STEP 3: 📦 `requirements.txt`
+
+```txt
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+pymupdf
+gradio
+duckduckgo-search
+pydantic
